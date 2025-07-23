@@ -23,7 +23,7 @@ The IRIS FLOWER CLASSIFICATION project aims to classify iris flowers into their 
 To begin working with this project, clone the repository and follow the instructions provided in the Jupyter Notebook.
 
 ```bash
-git clone https://github.com/Saumya/Iris_Flower_Classification.git
+git clone https://github.com/saumyap48/Iris_Flower_Classification.git
 ```
 
 ---
