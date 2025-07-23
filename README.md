@@ -21,7 +21,7 @@ Visualization of classification results
 Getting Started  
 To begin working with this project, clone the repository and follow the instructions provided in the Jupyter Notebook:
 
-git clone https://github.com/Saumya/IRIS_FLOWER_CLASSIFICATION.git
+git clone https://github.com/Saumya/Iris_Flower_Classification.git
 
 ---
 
