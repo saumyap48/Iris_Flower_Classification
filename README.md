@@ -15,20 +15,7 @@ The IRIS FLOWER CLASSIFICATION project aims to classify iris flowers into their 
 - Feature engineering  
 - Model training and evaluation  
 - Visualization of classification results
-
----
-
-## Getting Started
-
-To begin working with this project, clone the repository and follow the instructions provided in the Jupyter Notebook.
-
-```bash
-git clone https://<username>@github.com/saumyap48/Iris_Flower_Classification.git
-
 ```
-
----
-
 ## Prerequisites
 
 - Python 3.x  
