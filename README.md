@@ -38,11 +38,6 @@ Run the code cells sequentially to see the results and visualizations.
 
 ---
 
-License  
-This project is licensed under the MIT License – see the LICENSE file for details.
-
----
-
 Author  
 Saumya
 
